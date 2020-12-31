@@ -690,21 +690,21 @@ li.social-links a {
 -------------------------------------------------------------------*/
 
 .slider-bg-one {
-    background-image: url("uploads/slider_01.jpg");
+    background-image: url("img/bannar/banner4.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-two {
-    background-image: url("uploads/slider_02.jpg");
+    background-image: url("img/bannar/banner3.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-three {
-    background-image: url("uploads/slider_03.jpg");
+    background-image: url("uploads/buildings.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -730,7 +730,7 @@ li.social-links a {
 
 .slide-text h1 {
     color: #fff;
-    font-size: 70px;
+    font-size: 50px;
     font-weight: 700;
     text-transform: capitalize;
 	text-shadow: 0px 4px 3px rgba(0,0,0,0.99),
@@ -3109,7 +3109,7 @@ select.mobile-device {
 
 
 .banner-bg-1{
-	background: url(uploads/inner-bg.jpg);
+	background: url(img/bannar/banner3.jpg);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
@@ -3181,7 +3181,7 @@ select.mobile-device {
 	background: rgba(34, 34, 34, 0.4);
 }
 .banner-bg-4{
-	background: url(uploads/inner-bg_4.jpg);
+	background: url(img/bannar/banner4.jpg);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
