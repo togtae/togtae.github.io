@@ -704,7 +704,7 @@ li.social-links a {
 }
 
 .slider-bg-three {
-    background-image: url("uploads/buildings.png");
+    background-image: url("img/products/safety-products-banner-2.webp");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -716,7 +716,7 @@ li.social-links a {
 }
 
 .home-one-slider-otem .slider-content-area {
-    height: 650px;
+    height: 400px;
     position: relative;
 }
 
@@ -3229,7 +3229,7 @@ select.mobile-device {
 	background: rgba(34, 34, 34, 0.4);
 }
 .banner-bg-6{
-	background: url(uploads/inner-bg_6.jpg);
+	background: url(img/products/safety-products-banner-2.webp);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
