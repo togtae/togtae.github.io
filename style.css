@@ -3109,7 +3109,7 @@ select.mobile-device {
 
 
 .banner-bg-1{
-	background: url(img/bannar/banner3.jpg);
+	background: url(img/bannar/inner-banner1.jpg);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
@@ -3181,7 +3181,7 @@ select.mobile-device {
 	background: rgba(34, 34, 34, 0.4);
 }
 .banner-bg-4{
-	background: url(img/bannar/banner4.jpg);
+	background: url(img/bannar/contact-us-banner.jpg);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
