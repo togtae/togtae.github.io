@@ -690,21 +690,21 @@ li.social-links a {
 -------------------------------------------------------------------*/
 
 .slider-bg-one {
-    background-image: url("img/bannar/banner4.jpg");
+    background-image: url("img/TORONTO/IMG_0035.JPEG");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-two {
-    background-image: url("img/service/slideshow1.jpg");
+    background-image: url("img/TORONTO/IMG_0036.JPEG");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-three {
-    background-image: url("img/products/safety-products-banner-2.webp");
+    background-image: url("img/TORONTO/IMG_0037.JPEG");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3229,7 +3229,7 @@ select.mobile-device {
 	background: rgba(34, 34, 34, 0.4);
 }
 .banner-bg-6{
-	background: url(img/products/safety-products-banner-2.webp);
+	background: url(img/TORONTO/IMG_0035.JPEG);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
@@ -3253,7 +3253,7 @@ select.mobile-device {
 	background: rgba(34, 34, 34, 0.4);
 }
 .banner-bg-7{
-	background: url(img/products/safety-products-banner-2.webp);
+	background: url(img/TORONTO/IMG_0036.JPEG);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
