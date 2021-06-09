@@ -24,6 +24,27 @@
 				    font-style:normal;
 				}
 	</style>
+
+  	
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<!-- <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+<script src='main.js'></script> -->
+<style>
+    body {
+      background-color: rgb(43, 26, 104);
+    }
+
+    .clock {
+      position: absolute;
+      top: 50%;
+      left: 80%;
+      color: rgb(8, 236, 160);
+      transform: translateX(-50%) translateY(-50%);
+      font-size: 20px;
+      
+     
+    }
+  </style>
 	</head>
 
 	<body topmargin="0" leftmargin="0" rightmargin="0">
@@ -39,7 +60,7 @@
 		</td>
 	    <td width="40%" align="center" valign="middle" bgcolor="#333333"><table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
 	      <tr>
-	        <td class="style1">&nbsp;&nbsp;&nbsp;&nbsp; **&nbsp;&nbsp;&copy;2020 TORONTO GENERAL TRADING LLC. All rights reserved &nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	        <td class="style1">&nbsp;&nbsp;&nbsp;&nbsp; **&nbsp;&nbsp;&copy; 2021 TORONTO GENERAL TRADING LLC. All rights reserved &nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
           </tr>
 	      <tr>
 	       <td class="style1">
@@ -60,7 +81,29 @@
         </table></td>
       </tr>
 	</table>
-	
+
+
+
+  <div id='digital clock' class='clock'></div>
+  <script>
+
+      function showTime(){
+          let date = new Date();
+          let Hours = date.getHours()
+          let Minuts = date.getMinutes()
+          let Seconds = date.getSeconds()
+          Hours = Hours < 10 ? '0' + Hours : Hours
+          Minuts = Minuts < 10 ? '0' + Minuts : Minuts
+          Seconds = Seconds < 10 ? '0' + Seconds :Seconds
+          time = `${Hours} : ${Minuts} : ${Seconds}`
+          document.getElementById('digital clock').textContent = time
+      }
+      setInterval(showTime,1000).textContent
+  </script>
+
+
+
+
 	<script language="JavaScript">
         /**
           * Disable right-click of mouse, F12 key, and save key combinations on page
