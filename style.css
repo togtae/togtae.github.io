@@ -156,7 +156,7 @@ body {
 .style5 {	font-family:"Montserrat-Regular";
 	font-size:25px;
 	font-weight:bold;
-	color:#318094;
+	color:#33498A;
 	text-align:center;
 }
 .style5a {	font-family:"Montserrat-Regular";
@@ -493,7 +493,7 @@ a img.aligncenter {
 	font-size: 12px;
 }
 .email-box a:hover{
-	color: #318094;
+	color: #33498A;
 }
 .email-box a i{
 	padding: 0px 5px;
@@ -507,7 +507,7 @@ a img.aligncenter {
 	font-size: 12px;
 }
 .phone-box a:hover{
-	color: #318094;
+	color: #33498A;
 }
 .phone-box a i{
 	padding: 0px 5px;
@@ -527,7 +527,7 @@ a img.aligncenter {
 	font-size: 20px;
 }
 .social-box ul li a:hover{
-	color: #318094;
+	color: #33498A;
 }
 
 
@@ -617,7 +617,7 @@ a img.aligncenter {
 	color: #ffffff;
 	box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
 	border-radius: 25px 0px 25px 0px;
-	background: #318094;
+	background: #33498A;
 }
 
 .header_style_01 .navbar-default .navbar-nav > li:hover a,
@@ -625,7 +625,7 @@ a img.aligncenter {
     color: #ffffff;
 	box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
 	border-radius: 25px 0px 25px 0px;
-	background: #318094;
+	background: #33498A;
 }
 
 .header_style_01 .navbar-right > li {
@@ -764,7 +764,7 @@ li.social-links a {
 }
 
 .slider-wrapper .owl-nav .owl-prev:hover, .slider-wrapper .owl-nav .owl-next:hover {
-	background: #318094;
+	background: #33498A;
 }
 
 .slider-wrapper .owl-nav .owl-prev {
@@ -1083,7 +1083,7 @@ li.social-links a {
 .portfolio-filter ul li .btn-dark {
     box-shadow: none;
     background-color: transparent;
-    border: 2px solid #318094 !important;
+    border: 2px solid #33498A !important;
     color: #393939;
     font-weight: 500;
     font-size: 14px;
@@ -1137,7 +1137,7 @@ li.social-links a {
 }
 
 .da-thumbs .pitem a div i {
-    background-color: #318094;
+    background-color: #33498A;
     position: absolute;
     color: #ffffff !important;
     bottom: 0;
@@ -1567,7 +1567,7 @@ li.social-links a {
 }
 
 .hoverbutton {
-    background-color: #318094;
+    background-color: #33498A;
     position: absolute;
     color: #ffffff !important;
     top: 48%;
@@ -1799,7 +1799,7 @@ hr.invis1 {
     border-radius: 25px 0px 25px 0px;
     font-size: 26px;
 	color: #ffffff;
-    background-color: #318094;
+    background-color: #33498A;
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -2340,7 +2340,7 @@ select.mobile-device {
 
 .footer-links a:hover,
 .footer a:hover {
-    color: #318094 !important;
+    color: #33498A !important;
 }
 
 .footer-links li {
@@ -2417,7 +2417,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a:hover{
-	color: #318094;
+	color: #33498A;
 }
 
 
@@ -2527,11 +2527,11 @@ select.mobile-device {
 }
 
 .dmtop:hover {
-	background-color: #318094;
+	background-color: #33498A;
 }
 
 .icon_wrap {
-    background-color: #318094;
+    background-color: #33498A;
     width: 100px;
     height: 100px;
     display: block;
@@ -2569,7 +2569,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #318094;
+    background: #33498A;
     z-index: 11000;
     position: fixed;
     display: block;
@@ -3042,9 +3042,9 @@ select.mobile-device {
 .btn-light {
     padding: 13px 40px;
     font-size: 18px;
-    border: 2px solid #318094;
+    border: 2px solid #33498A;
     color: #ffffff;
-    background-color: #318094;
+    background-color: #33498A;
 }
 
 .btn-dark {
@@ -3057,7 +3057,7 @@ select.mobile-device {
 
 .btn-light:hover,
 .btn-light:focus {
-    border-color: #318094;
+    border-color: #33498A;
     color: rgba(255, 255, 255);
 	background: #393939;
 }
@@ -3313,7 +3313,7 @@ select.mobile-device {
 	position: relative;
 }
 .banner h2::after {
-    background: #318094;
+    background: #33498A;
     content: "";
     height: 35px;
     left: -15px;
@@ -3335,7 +3335,7 @@ select.mobile-device {
 	font-weight: 500;
 }
 .page-title-link li a:hover {
-	color: #318094;
+	color: #33498A;
 }
 .page-title-link li::after {
     background: #fcbf02;
@@ -3382,7 +3382,7 @@ select.mobile-device {
 	text-align:center;
 }
 .about-text h3 a:hover{
-	color: #318094;
+	color: #33498A;
 }
 
 .about-item:hover .about-icon{
@@ -3398,7 +3398,7 @@ select.mobile-device {
 
 
 .portfolio-filter ul li .btn-dark.active{
-	background: #318094;
+	background: #33498A;
 	color: #ffffff;
 }
 
@@ -3413,9 +3413,9 @@ select.mobile-device {
 
 
 :root{
-    --pricingTable-yellow: #318094;
-    --pricingTable-purple: #318094;
-    --pricingTable-blue: #318094;
+    --pricingTable-yellow: #33498A;
+    --pricingTable-purple: #33498A;
+    --pricingTable-blue: #33498A;
 }
 
 .pricingTable{	
@@ -3746,7 +3746,7 @@ select.mobile-device {
 .address-item h3{
 	font-size: 28px;
 	font-weight: 600;
-	color: #318094;
+	color: #33498A;
 }
 
 
